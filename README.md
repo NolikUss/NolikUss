@@ -55,12 +55,34 @@ tech_stack = {
     ]
 }
 ```
+---
+<p align="center">
+  <img src="images/github_homelab_banner.png" width="100%" alt="Homelab">
+</p>
+
+Личная виртуалка, на которой я практикуюсь в администрировании и эксплуатации сервисов «как в продакшене».
+
+| Сервис | Зачем нужен |
+| --- | --- |
+| **Grafana + Prometheus** | мониторинг нагрузки виртуалки: CPU, память, диск, сеть |
+| **Plane** | трекер задач: сюда я записываю учебные и рабочие задачи |
+| **Семейное облако** | у каждого члена семьи своё хранилище; фото выгружаются автоматически, как в iCloud, а система показывает, какие люди на каких фотографиях |
+
+```bash
+$ cat roadmap.txt
+[ ] ультимативная панель: всё для учёбы и работы в одном месте
+[ ] удалённая компиляция кода
+```
+
+---
+
 --- 
 ## 📬 Connect with me
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NolikUss) &emsp;&emsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trofgorbatko@gmail.com) &emsp;&emsp; [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NolikUss)
 
 > Быстрее всего отвечаю в **Telegram**
+
 ---
 
 <p align="center">
