@@ -2,12 +2,17 @@
   <img src="images/github_fone_banner.png" width="100%" alt="Баннер профиля NolikUss">
 </p>
 
-<h1 align="center">Привет, я NolikUss 👋</h1>
+<h1 align="center">Привет, я Трофим 👋</h1>
 
----
-- **Начинающий DevOps инженер. **
-- **Информационная безопасность @ДВФУ • Основные технологии защиты информации**  
----
+```bash
+$ whoami
+nolikuss — начинающий DevOps-инженер
+
+$ cat status.txt
+studying : Информационная безопасность @ДВФУ
+focus    : инфраструктура • автоматизация • безопасность
+open_to  : стажировки • проекты • практика
+```
 
 <p align="center">
   <img src="images/github_about_banner.png" width="100%" alt="About me">
